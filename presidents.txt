@@ -1,0 +1,11 @@
+# name,party,start_year,start_month,end_year,end_month
+John F. Kennedy,D,1961,1,1963,11
+Lyndon B. Johnson,D,1963,11,1969,1
+Richard Nixon,R,1969,1,1974,8
+Gerald Ford,R,1974,8,1977,1
+Jimmy Carter,D,1977,1,1981,1
+Ronald Reagan,R,1981,1,1989,1
+George H. W. Bush,R,1989,1,1993,1
+Bill Clinton,D,1993,1,2001,1
+George W. Bush,R,2001,1,2009,1
+Barack Obama,D,2009,1,2012,12
