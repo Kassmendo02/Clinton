@@ -1,5 +1,4 @@
 # Clinton Job Claim Analysis
-Based on the calculations from my program, the Democrats had roughly around 43.8 million jobs between the years 1961 and 2012 versus the Republicans who created 22.45 million. Clinton claimed that the numbers were 42 million for Democrats and 24 million for Republicans. Which makes my results very close, with only a slight differences in the months specification that were used for each presidency. Overall, the BLS data does fully support Clinton's main point that Democratic presidents gained much higher job growth than Republican presidents during this time period.
 
 ## Job Changes by President (in thousands)
 
@@ -28,3 +27,4 @@ The results above show how close the official BLS data is to his claim.
 ## My Conclusion (write this part yourself)
 Explain whether Clinton was right or wrong, using the numbers your program produced.
 Discuss any assumptions or limitations.
+Based on the calculations from my program, the Democrats had roughly around 43.8 million jobs between the years 1961 and 2012 versus the Republicans who created 22.45 million. Clinton claimed that the numbers were 42 million for Democrats and 24 million for Republicans. Which makes my results very close, with only a slight differences in the months specification that were used for each presidency. Overall, the BLS data does fully support Clinton's main point that Democratic presidents gained much higher job growth than Republican presidents during this time period.
